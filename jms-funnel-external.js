@@ -9,7 +9,7 @@
     <!-- NOTIFICATION -->
     <div id="jms-notif" class="jms-notif jms-off">
         <div class="jms-live">LIVE</div>
-        <p>15+ Appointments booked today.</p>
+        <p>18+ Appointments booked today.</p>
     </div>
     
     <!-- BOOKING POPUP -->
