@@ -67,7 +67,7 @@
         <div class="jms-chat-header" onclick="jmsToggleChat()">
             <div class="jms-agent">
                 <div class="jms-avatar">
-                    <img src="https://www.jmshospital.com/img/jms-logo.png" alt="JMS Hospital">
+                    <img src="https://static.wixstatic.com/media/26414e_12895ca3fb76444f9d9301b295d1c89b~mv2.png" alt="JMS Hospital">
                     <span class="jms-online"></span>
                 </div>
                 <div class="jms-info">
