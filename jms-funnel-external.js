@@ -17,7 +17,7 @@
         <div class="jms-modal">
             <button class="jms-close" onclick="jmsClose()">&times;</button>
             <div class="jms-head">
-                <img src="https://www.jmshospital.com/img/jms-logo.png" alt="JMS Hospital">
+                <img src="https://static.wixstatic.com/media/26414e_12895ca3fb76444f9d9301b295d1c89b~mv2.png" alt="JMS Hospital">
                 <h2>Book Your Consultation</h2>
                 <p>Expert Multi-Specialty Care in Shalimar Bagh, Delhi</p>
             </div>
